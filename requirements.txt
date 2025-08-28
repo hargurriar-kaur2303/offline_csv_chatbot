@@ -6,3 +6,4 @@ deep-translator
 matplotlib
 seaborn
 plotly
+statsmodels
