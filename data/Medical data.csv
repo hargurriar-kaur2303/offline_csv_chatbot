@@ -1,0 +1,624 @@
+Division,District,Name of the College,Name of the Department,No. of MBBS seats,Total Beds,Total Units,UG Professor ,UG  Associate Prof. / Reader,UG Assistant Professor / Lecturer,UG Sr. Residents ,UG Tutors/ Demonstrators,No of PG Seats,PG Professor ,PG Associate Prof. / Reader,PG Assistant Professor / Lecturer,PG Sr. Residents ,PG Tutors/ Demonstrators,Total Annual Intake of PG Seats,Professor (Compliance/ Non Compliance),Associate Prof. / Reader (Compliance/ Non Compliance),Assistant Professor / Lecturer (Compliance/ Non Compliance),Sr. Residents (Compliance/ Non Compliance),Tutors/ Demonstrators (Compliance/ Non Compliance)
+Amaravati,Akola,GMC Akola,Anatomy,200,0,0,1,2,3,6,0,2,1,2,3,0,4,2,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Physiology,0,0,0,1,2,3,5,0,2,1,2,3,0,4,2,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Biochemistry,0,0,0,1,2,2,5,0,2,1,2,3,0,4,2,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Pathology,0,0,0,1,6,6,7,0,9,1,3,4,0,6,9,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Microbiology,0,0,0,1,2,3,5,0,2,1,2,3,0,4,2,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Pharmacology,0,0,0,1,2,4,7,0,5,1,2,3,0,4,5,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Forensic Medicine Including Toxicology,0,0,0,1,1,2,5,0,2,1,1,1,0,4,2,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,Community Medicine,0,0,0,1,3,7,7,0,11,1,2,4,0,5,11,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Akola,GMC Akola,General Medicine,0,210,3,1,3,5,8,0,0,1,6,7,7,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Paediatrics,0,120,2,1,3,5,5,0,2,1,3,4,4,0,2,Complied,Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Psychiatry,0,30,1,1,1,2,2,0,0,1,0,1,1,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,"Dermatology, Venereology and Leprosy",0,30,1,1,1,2,2,0,3,1,0,1,1,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Tuberculosis And Respiratory Diseases,0,60,1,1,1,2,2,0,3,1,0,1,1,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,General Surgery,0,210,7,1,3,5,8,0,0,1,6,7,7,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Orthopaedics,0,120,2,1,1,2,5,0,0,1,3,4,4,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Radio-Diagnosis,0,5,0,1,2,2,4,0,5,1,1,2,3,0,5,Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Radiotherapy,0,0,0,0,0,0,3,0,0,1,1,2,3,0,0,Not Complied,Not Complied,Not Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Oto-Rhinolaryngology (ENT),0,30,1,1,1,2,3,0,3,1,1,1,1,0,3,Complied,Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Ophthalmology,0,30,2,1,1,2,5,0,4,1,1,2,2,0,4,Complied,Complied,Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Obstetrics And Gynaecology,0,120,4,1,4,8,5,0,14,1,3,4,4,0,14,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Anaesthesiology,0,0,0,1,3,4,2,0,4,1,4,5,4,0,4,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,Emergency Medicine,0,10,0,0,0,0,0,0,0,1,0,0,0,0,0,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Dentistry,0,0,0,1,1,1,0,0,0,1,1,1,0,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Any Other - All Ot recovery,0,30,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Any Other - LR,0,20,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Any Other - BURN WARD ICU,0,5,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Any Other - BURN,0,30,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Any Other - CASUALTY,0,20,0,0,45,72,101,0,73,1,0,0,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Akola,GMC Akola,ICCU Respi ICU,0,5,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,ICU,0,27,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Surgical ICU,0,20,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,PICU,0,6,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,NICU,0,20,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Obstetric HDU/ICU,0,10,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Major OT 5,0,20,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Minor OT 5ot,0,10,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Labour Table,0,6,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,ICCR-Nephrology (AK Dialysis),0,6,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Injection Room,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Blood bank,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Minor OT OPD,0,2,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Akola,GMC Akola,Injection Room,0,2,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Konkan,Raigad,GMC Alibag,Anatomy,100,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Physiology,0,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Biochemistry,0,0,0,1,1,2,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Pathology,0,0,0,1,1,2,1,0,3,1,2,3,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Microbiology,0,0,0,0,1,2,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Pharmacology,0,0,0,0,1,2,1,0,0,1,1,1,0,2,,Not Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Forensic Medicine Including Toxicology,0,0,0,1,1,0,1,0,0,1,0,1,0,2,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Konkan,Raigad,GMC Alibag,Community Medicine,0,0,0,0,1,2,1,0,0,1,2,2,0,3,,Not Complied,Not Complied,Complied,Not Complied,Not Complied
+Konkan,Raigad,GMC Alibag,General Medicine,0,60,1,0,1,1,0,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Paediatrics,0,20,1,0,1,0,0,0,4,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Psychiatry,0,10,1,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,"Dermatology, Venereology and Leprosy",0,0,0,0,0,1,0,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Tuberculosis And Respiratory Diseases,0,0,0,0,0,1,0,0,0,1,0,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,General Surgery,0,40,1,0,1,2,0,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Orthopaedics,0,10,1,0,0,1,0,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Radio-Diagnosis,0,0,0,0,1,1,0,0,2,1,1,1,2,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Oto-Rhinolaryngology (ENT),0,4,1,1,0,1,0,0,0,1,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Ophthalmology,0,20,1,0,0,1,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Konkan,Raigad,GMC Alibag,Obstetrics And Gynaecology,0,42,1,0,1,1,1,0,4,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Anaesthesiology,0,0,0,0,1,1,0,0,2,1,2,4,3,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Emergency Medicine,0,4,1,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Konkan,Raigad,GMC Alibag,Dentistry,0,0,0,0,0,1,1,0,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Konkan,Raigad,GMC Alibag,Any Other - Family Medicine,0,0,0,0,0,0,0,0,4,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Anatomy,150,0,0,1,2,1,6,0,3,1,1,2,0,3,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Physiology,0,0,0,1,2,2,4,0,2,1,1,2,0,3,2,Complied,Not Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Biochemistry,0,0,0,1,1,2,5,0,4,1,1,2,0,4,9,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Pathology,0,0,0,1,2,6,6,0,9,1,3,3,0,5,9,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Microbiology,0,0,0,1,2,5,5,0,8,1,1,2,0,4,8,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Pharmacology,0,0,0,1,2,3,5,0,2,1,1,2,0,3,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Forensic Medicine Including Toxicology,0,0,0,1,0,1,4,0,3,1,1,1,0,3,3,Complied,Not Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Community Medicine,0,0,0,1,2,4,5,0,9,1,2,3,0,4,9,Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,General Medicine,0,0,0,1,3,4,6,0,6,1,4,5,5,0,6,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Paediatrics,0,0,0,1,0,3,4,0,5,1,2,3,3,0,5,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Psychiatry,0,0,0,0,1,1,2,0,0,0,1,1,1,0,0,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,"Dermatology, Venereology and Leprosy",0,0,0,0,0,1,2,0,2,0,1,1,1,0,2,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Tuberculosis And Respiratory Diseases,0,0,0,1,1,1,2,0,2,1,0,1,1,0,2,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,General Surgery,0,0,0,1,2,5,6,0,5,1,4,5,5,0,5,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Orthopaedics,0,0,0,1,1,4,4,0,7,1,2,3,3,0,7,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Radio-Diagnosis,0,0,0,0,1,1,4,0,0,1,1,1,3,0,0,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Oto-Rhinolaryngology (ENT),0,0,0,1,1,1,3,0,5,1,1,1,1,0,5,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Ophthalmology,0,0,0,1,1,1,3,0,5,1,1,1,1,0,5,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Obstetrics And Gynaecology,0,0,0,1,2,7,5,0,5,1,2,3,3,0,6,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Anaesthesiology,0,0,0,1,2,2,4,0,6,1,3,5,3,0,6,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Emergency Medicine,0,0,0,0,1,0,10,0,0,1,0,0,0,0,0,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Ambejogai,Dentistry,0,0,0,0,0,1,2,0,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Anatomy,250,0,0,1,5,7,7,0,4,1,2,4,0,5,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Physiology,0,0,0,2,7,7,5,0,4,1,2,4,0,5,4,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Biochemistry,0,0,0,2,4,7,5,0,9,1,2,4,0,5,9,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Pathology,0,0,0,2,8,13,7,0,16,1,4,4,0,6,16,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Microbiology,0,0,0,2,5,9,6,0,10,1,2,4,0,5,10,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Pharmacology,0,0,0,2,7,6,7,0,8,1,2,3,0,4,8,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Forensic Medicine Including Toxicology,0,0,0,2,2,3,5,0,6,1,1,2,0,4,6,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,Community Medicine,0,0,0,2,7,8,7,0,10,1,2,5,0,5,10,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC BJ Pune,General Medicine,0,316,8,2,8,15,9,0,16,1,7,8,8,0,16,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Paediatrics,0,120,4,1,4,7,5,0,12,1,3,4,4,0,12,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Psychiatry,0,60,2,1,2,3,2,0,7,1,1,1,1,0,7,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,"Dermatology, Venereology and Leprosy",0,60,2,1,2,3,2,0,8,1,1,1,1,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Tuberculosis And Respiratory Diseases,0,5,2,1,2,3,2,0,5,1,1,2,2,0,5,Complied,Not Complied,Not Complied,Complied,Complied
+Pune,Pune,GMC BJ Pune,General Surgery,0,300,8,2,8,15,9,0,17,1,7,8,8,0,17,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Orthopaedics,0,80,4,1,4,7,5,0,12,1,4,5,5,0,12,Complied,Complied,Not Complied,Complied,Complied
+Pune,Pune,GMC BJ Pune,Radio-Diagnosis,0,0,0,2,4,7,4,0,13,1,1,2,3,0,11,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Oto-Rhinolaryngology (ENT),0,71,2,1,2,3,3,0,8,1,1,1,1,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Ophthalmology,0,80,2,1,3,3,3,0,10,1,1,2,2,0,10,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Obstetrics And Gynaecology,0,152,6,2,8,10,6,0,20,1,4,5,5,0,20,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Anaesthesiology,0,0,0,2,6,9,5,0,18,1,4,6,4,0,18,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Emergency Medicine,0,0,1,1,0,0,10,0,3,1,0,0,0,0,3,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Dentistry,0,5,0,1,1,2,2,0,0,1,1,1,0,0,0,Complied,Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Cardiology,0,13,1,0,0,0,2,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune, Nephrology,0,0,0,0,0,0,2,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Neurology,0,0,1,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC BJ Pune,DM – Neonatology,0,0,0,0,0,0,0,0,2,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC BJ Pune,Urology,0,0,1,0,0,0,3,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Paediatric Surgery,0,30,1,0,1,1,3,0,2,1,0,0,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Plastic Surgery,0,2,1,0,0,0,3,0,2,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,Cardiovascular and thoracic Surgery,0,0,1,0,0,0,0,0,1,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC BJ Pune,Neurosurgery,0,2,1,0,0,0,3,0,2,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC BJ Pune,  DM Interventional Radiology,0,0,0,0,0,0,0,0,2,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC Baramati,Anatomy,100,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Physiology,0,0,0,1,1,2,4,0,4,1,1,1,0,3,4,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Biochemistry,0,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Pathology,0,0,0,1,2,3,5,0,0,1,2,3,0,4,,Complied,Complied,Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Microbiology,0,0,0,1,1,2,5,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Pharmacology,0,0,0,1,1,2,4,0,0,1,1,1,0,2,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Forensic Medicine Including Toxicology,0,0,0,1,0,2,3,0,0,1,0,1,0,2,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,Community Medicine,0,0,0,1,2,5,4,0,6,1,2,2,0,3,6,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Baramati,General Medicine,0,120,3,1,2,4,5,0,0,1,3,4,4,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Paediatrics,0,60,2,1,1,2,3,0,0,1,1,2,2,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Psychiatry,0,10,1,1,1,1,2,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,"Dermatology, Venereology and Leprosy",0,10,1,1,1,1,2,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Tuberculosis And Respiratory Diseases,0,10,1,1,0,1,2,0,0,1,0,1,1,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,General Surgery,0,120,1,1,3,4,5,0,0,1,3,4,4,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Orthopaedics,0,60,2,1,1,2,3,0,0,1,1,2,2,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Radio-Diagnosis,0,0,0,1,1,2,3,0,0,1,1,1,2,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Oto-Rhinolaryngology (ENT),0,10,1,1,0,1,2,0,0,1,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Ophthalmology,0,10,1,1,0,1,2,0,0,1,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Obstetrics And Gynaecology,0,60,2,1,1,2,3,0,0,1,1,2,2,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Anaesthesiology,0,0,0,1,2,4,4,0,5,1,2,4,3,0,5,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Emergency Medicine,0,30,1,0,0,0,10,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Baramati,Dentistry,0,0,0,1,0,1,2,0,0,1,1,1,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Anatomy,100,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Physiology,0,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Biochemistry,0,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Pathology,0,0,0,1,2,3,4,0,0,1,2,3,0,4,,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Microbiology,0,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Pharmacology,0,0,0,1,2,2,3,0,0,1,1,1,0,2,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Forensic Medicine Including Toxicology,0,0,0,1,1,1,2,0,0,1,0,1,0,2,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,Community Medicine,0,0,0,1,2,3,3,0,0,1,2,2,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Bhandara,GMC Bhandara,General Medicine,0,96,5,1,2,4,4,0,0,1,3,4,4,0,,Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Paediatrics,0,38,2,1,2,2,2,0,0,1,1,2,2,0,,Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Psychiatry,0,10,1,1,0,1,1,0,0,0,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,"Dermatology, Venereology and Leprosy",0,4,1,0,0,1,1,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Tuberculosis And Respiratory Diseases,0,20,1,1,0,1,1,0,0,1,0,1,1,0,,Complied,Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,General Surgery,0,76,5,1,2,3,4,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Orthopaedics,0,39,3,1,1,1,2,0,0,1,1,2,2,0,,Complied,Complied,Not Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Radio-Diagnosis,0,0,0,1,1,1,2,0,0,1,1,1,2,0,,Complied,Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Oto-Rhinolaryngology (ENT),0,12,1,1,1,1,1,0,0,1,1,1,1,0,,Complied,Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Ophthalmology,0,22,1,1,1,1,1,0,0,1,1,1,1,0,,Complied,Complied,Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Obstetrics And Gynaecology,0,128,3,1,1,3,2,0,0,1,1,2,2,0,,Complied,Complied,Not Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Anaesthesiology,0,0,0,1,2,2,3,0,0,1,2,4,3,0,,Complied,Complied,Not Complied,Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Emergency Medicine,0,0,1,1,1,1,9,0,0,1,0,0,0,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Bhandara,GMC Bhandara,Radiation Oncology,0,0,0,0,1,1,1,0,0,1,0,0,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Anatomy,100,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Physiology,0,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Biochemistry,0,0,0,1,1,2,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Pathology,0,0,0,1,2,3,4,0,0,1,2,3,0,4,,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Microbiology,0,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Pharmacology,0,0,0,1,2,2,3,0,0,1,1,1,0,2,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Forensic Medicine Including Toxicology,0,0,0,1,1,1,2,0,0,1,0,1,0,2,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,Community Medicine,0,0,0,1,2,3,3,0,0,1,2,2,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Buldhana,GMC Buldhana,General Medicine,0,100,3,1,2,4,4,0,0,1,3,4,4,0,,Complied,Not Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Paediatrics,0,50,2,1,2,2,2,0,0,1,1,2,2,0,,Complied,Not Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Psychiatry,0,10,1,1,0,1,1,0,0,0,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,"Dermatology, Venereology and Leprosy",0,10,1,0,0,0,1,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Tuberculosis And Respiratory Diseases,0,0,0,1,0,0,1,0,0,1,0,1,1,0,,Complied,Complied,Not Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,General Surgery,0,100,3,1,2,4,4,0,0,1,3,4,4,0,,Complied,Not Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Orthopaedics,0,40,1,1,1,2,2,0,0,1,1,2,2,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Radio-Diagnosis,0,0,0,1,1,1,2,0,0,1,1,1,2,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Oto-Rhinolaryngology (ENT),0,20,1,1,1,1,1,0,0,1,1,1,1,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Ophthalmology,0,20,2,1,1,1,1,0,0,1,1,1,1,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Obstetrics And Gynaecology,0,50,4,1,1,2,2,0,0,1,1,2,2,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Anaesthesiology,0,0,0,1,2,4,3,0,0,1,2,4,3,0,,Complied,Complied,Complied,Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Emergency Medicine (ICU),0,30,0,1,1,0,9,0,0,1,0,0,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Radiation Oncology,0,0,0,0,1,0,1,0,0,1,0,0,0,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Buldhana,GMC Buldhana,Dentistry,0,0,0,0,0,1,0,0,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Anatomy,150,0,0,1,1,1,0,3,4,1,1,2,0,3,4,Complied,Complied,Not Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Physiology,0,0,0,1,1,2,0,3,3,1,1,2,0,3,3,Complied,Complied,Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Biochemistry,0,0,0,1,1,2,1,2,5,1,1,2,0,4,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Pathology,0,0,0,0,2,2,6,2,2,1,3,3,0,5,2,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Microbiology,0,0,0,1,1,2,3,1,3,1,1,2,0,4,3,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Pharmacology,0,0,0,1,0,1,0,3,3,1,1,2,0,3,3,Complied,Not Complied,Not Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Forensic Medicine Including Toxicology,0,0,0,1,0,0,0,0,5,1,1,1,0,3,5,Complied,Not Complied,Not Complied,Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Community Medicine,0,0,0,0,2,5,0,2,3,1,2,3,0,4,3,Not Complied,Complied,Not Complied,Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,General Medicine,0,120,3,1,2,4,3,8,2,1,4,5,5,0,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Paediatrics,0,90,3,1,1,2,2,4,2,1,2,3,3,0,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Psychiatry,0,10,1,1,0,1,1,0,2,0,1,1,1,0,2,Not Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,"Dermatology, Venereology and Leprosy",0,10,1,1,0,1,1,0,5,0,1,1,1,0,5,Not Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Tuberculosis And Respiratory Diseases,0,10,1,1,0,1,0,2,0,1,0,1,1,0,0,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,General Surgery,0,120,3,1,2,3,1,0,10,1,4,5,5,0,10,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Orthopaedics,0,60,2,1,1,2,4,2,2,1,2,3,3,0,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Radio-Diagnosis,0,0,0,0,0,1,4,7,0,1,1,1,3,0,0,Not Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Oto-Rhinolaryngology (ENT),0,10,1,0,0,1,1,1,2,1,1,1,1,0,2,Not Complied,Not Complied,Complied,Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Ophthalmology,0,30,1,1,0,1,2,0,3,1,1,1,1,0,3,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Obstetrics And Gynaecology,0,120,2,1,1,4,4,11,5,1,2,3,3,0,5,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Chandrapur,GMC Chandrapur,Anaesthesiology,0,0,0,1,2,3,1,0,4,1,3,5,3,0,4,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Emergency Medicine,0,70,3,0,0,0,0,0,0,1,0,0,0,0,0,Not Complied,Complied,Complied,Complied,Complied
+Nagpur,Chandrapur,GMC Chandrapur,Dentistry,0,0,0,0,0,1,2,3,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Anatomy,100,0,0,1,1,3,5,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Physiology,0,0,0,1,1,3,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Biochemistry,0,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Pathology,0,0,0,1,3,3,5,0,0,1,2,3,0,4,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Microbiology,0,0,0,1,1,3,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Pharmacology,0,0,0,1,2,3,4,0,0,1,1,1,0,2,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Forensic Medicine Including Toxicology,0,0,0,1,1,1,3,0,0,1,0,1,0,2,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Community Medicine,0,0,0,1,2,4,4,0,0,1,2,2,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,General Medicine,0,130,5,1,4,5,5,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Paediatrics,0,75,3,1,2,3,3,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Psychiatry,0,20,1,1,1,1,1,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,"Dermatology, Venereology and Leprosy",0,10,1,1,1,1,1,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Tuberculosis And Respiratory Diseases,0,20,1,0,1,1,1,0,0,1,0,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,General Surgery,0,130,5,1,4,5,5,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Orthopaedics,0,75,3,1,2,3,3,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Radio-Diagnosis,0,12,0,1,1,1,3,0,0,1,1,1,2,0,,Complied,Complied,Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Oto-Rhinolaryngology (ENT),0,20,2,1,1,2,2,0,0,1,1,1,1,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Ophthalmology,0,20,2,1,1,2,2,0,0,1,1,1,1,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Obstetrics And Gynaecology,0,100,4,1,3,4,4,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Anaesthesiology,0,0,0,1,3,5,3,0,0,1,2,4,3,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Emergency Medicine,0,30,1,1,1,1,9,0,0,1,0,0,0,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gadchiroli,GMC Gadchiroli,Dentistry,0,0,0,1,1,1,1,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Anatomy,200,0,0,1,2,5,6,0,6,1,2,3,0,4,6,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Physiology,0,0,0,1,2,6,5,0,0,1,2,3,0,4,0,Complied,Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Biochemistry,0,0,0,1,2,3,5,0,2,1,2,3,0,4,2,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Pathology,0,0,0,1,6,7,7,0,1,1,3,4,0,6,1,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Microbiology,0,0,0,1,2,3,5,0,6,1,2,3,0,4,6,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Pharmacology,0,0,0,1,2,3,7,0,2,1,2,3,0,4,2,Complied,Complied,Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Forensic Medicine Including Toxicology,0,0,0,1,2,3,5,0,1,1,1,1,0,4,1,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,Community Medicine,0,0,0,1,3,5,7,0,4,1,2,4,0,5,5,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Yavatmal,GMC Yavatmal,General Medicine,0,120,3,1,3,5,8,0,0,1,6,7,7,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Paediatrics,0,130,3,1,2,3,5,0,6,1,3,4,4,0,6,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Psychiatry,0,20,1,1,1,2,2,0,0,1,0,1,1,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,"Dermatology, Venereology and Leprosy",0,20,1,1,1,2,2,0,0,1,0,1,1,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Tuberculosis And Respiratory Diseases,0,40,1,1,1,2,2,0,2,1,0,1,1,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,General Surgery,0,110,3,1,4,5,8,0,8,1,6,7,7,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Orthopaedics,0,60,3,1,1,2,5,0,0,1,3,4,4,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Radio-Diagnosis,0,0,0,1,2,2,4,0,0,1,1,2,3,0,0,Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Oto-Rhinolaryngology (ENT),0,40,1,1,1,2,3,0,3,1,1,1,1,0,3,Complied,Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Ophthalmology,0,40,1,1,1,2,3,0,4,1,1,2,2,0,4,Complied,Complied,Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Obstetrics And Gynaecology,0,180,3,1,3,3,5,0,6,1,3,4,4,0,6,Complied,Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Anaesthesiology,0,0,0,1,3,4,5,0,4,1,4,5,4,0,4,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Emergency Medicine,0,0,0,0,0,0,10,0,0,1,0,0,0,0,0,Not Complied,Complied,Complied,Not Complied,Complied
+Amaravati,Yavatmal,GMC Yavatmal,Dentistry,0,0,1,1,1,1,2,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Anatomy,200,0,0,1,2,4,1,0,3,1,2,3,0,4,3,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Physiology,0,0,0,1,3,4,2,0,3,1,2,3,0,4,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Biochemistry,0,0,0,1,2,5,0,0,7,1,2,3,0,4,7,Complied,Complied,Not Complied,Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Pathology,0,0,0,1,6,7,7,0,4,1,3,4,0,6,4,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Microbiology,0,0,0,1,2,3,5,0,8,1,2,3,0,4,8,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Pharmacology,0,0,0,1,2,3,3,0,5,1,2,3,0,4,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Forensic Medicine Including Toxicology,0,0,0,1,2,4,2,0,3,1,1,1,0,4,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,Community Medicine,0,0,0,1,3,6,7,0,10,1,2,4,0,5,10,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Nagpur,IGMC Nagpur,General Medicine,0,145,4,1,5,8,8,0,12,1,6,7,7,0,12,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Paediatrics,0,120,2,1,2,4,5,0,13,1,3,4,4,0,13,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Psychiatry,0,30,2,1,2,3,2,0,8,1,0,1,1,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,"Dermatology, Venereology and Leprosy",0,30,1,1,1,2,2,0,4,1,0,1,1,0,4,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Tuberculosis And Respiratory Diseases,0,58,2,1,2,2,2,0,8,1,0,1,1,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,General Surgery,0,150,4,1,4,7,8,0,12,1,6,7,7,0,12,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Orthopaedics,0,90,2,1,2,3,4,0,9,1,3,4,4,0,9,Complied,Not Complied,Not Complied,Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Radio-Diagnosis,0,0,0,1,2,3,3,0,8,1,1,2,3,0,8,Complied,Not Complied,Not Complied,Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Oto-Rhinolaryngology (ENT),0,45,2,1,1,2,0,0,4,1,1,1,1,0,4,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Ophthalmology,0,45,2,1,2,2,3,0,5,1,1,2,2,0,5,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Obstetrics And Gynaecology,0,120,4,2,4,6,5,0,20,1,3,4,4,0,20,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Anaesthesiology,0,120,0,1,4,4,5,0,11,1,4,5,4,0,11,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Nagpur,IGMC Nagpur,Dentistry,0,0,0,1,1,2,2,0,0,1,1,1,0,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Anatomy,0,0,0,1,1,2,5,0,5,1,1,2,0,3,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Physiology,0,0,0,1,1,2,4,0,5,1,1,2,0,3,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Biochemistry,0,0,0,1,1,2,5,0,3,1,1,2,0,4,3,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Pathology,0,0,0,1,2,3,6,0,2,1,3,3,0,5,2,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Microbiology,0,0,0,1,1,2,5,0,3,1,1,2,0,4,3,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Pharmacology,0,0,0,1,1,2,5,0,5,1,1,2,0,3,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Forensic Medicine Including Toxicology,0,0,0,1,0,2,4,0,3,1,1,1,0,3,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,Community Medicine,0,0,0,1,2,4,5,0,7,1,2,3,0,4,7,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nagpur,Gondia,GMC Gondia,General Medicine,0,120,5,1,3,4,7,0,2,1,4,5,5,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Paediatrics,0,60,2,1,1,3,4,0,2,1,2,3,3,0,2,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Psychiatry,0,10,1,1,0,1,2,0,0,0,1,1,1,0,0,Not Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,"Dermatology, Venereology and Leprosy",0,10,1,1,0,1,2,0,0,0,1,1,1,0,0,Not Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Tuberculosis And Respiratory Diseases,0,10,1,1,0,1,2,0,0,1,0,1,1,0,0,Complied,Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,General Surgery,0,120,5,1,3,4,6,0,3,1,4,5,5,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Orthopaedics,0,60,3,1,1,2,4,0,0,1,2,3,3,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Radio-Diagnosis,0,0,0,1,1,1,4,0,0,1,1,1,3,0,0,Complied,Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Oto-Rhinolaryngology (ENT),0,10,1,1,0,1,3,0,4,1,1,1,1,0,4,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Ophthalmology,0,30,1,1,0,1,3,0,3,1,1,1,1,0,3,Complied,Not Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Obstetrics And Gynaecology,0,60,3,1,2,4,5,0,5,1,2,3,3,0,5,Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Anaesthesiology,0,0,0,1,2,3,4,0,4,1,3,5,3,0,4,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Physical Medicine And Rehabilitation,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,Not Complied,Complied,Not Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Emergency Medicine,0,20,1,0,0,0,10,0,0,1,0,0,0,0,0,Not Complied,Complied,Complied,Not Complied,Complied
+Nagpur,Gondia,GMC Gondia,Dentistry,0,0,0,1,0,1,1,0,0,1,1,1,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Anatomy,0,0,0,1,1,2,6,0,0,1,1,2,0,3,0,Complied,Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Physiology,0,0,0,1,1,2,4,0,0,1,1,2,0,3,,Complied,Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Biochemistry,0,0,0,1,1,2,5,0,0,1,1,2,0,4,0,Complied,Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Pathology,0,0,0,1,2,3,6,0,2,1,3,3,0,5,2,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Microbiology,0,0,0,1,1,2,5,0,4,1,1,2,0,4,4,Complied,Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Pharmacology,0,0,0,1,1,2,5,0,5,1,1,2,0,3,5,Complied,Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Forensic Medicine Including Toxicology,0,0,0,1,0,1,4,0,3,1,1,1,0,3,3,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,Community Medicine,0,0,0,1,2,5,5,0,4,1,2,3,0,4,4,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nashik,Jalgaon,GMC Jalgaon,General Medicine,0,98,3,2,3,4,6,0,7,1,4,5,5,0,7,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Paediatrics,0,35,1,1,2,2,4,0,5,1,2,3,3,0,5,Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Psychiatry,0,0,0,1,0,1,2,0,0,0,1,1,1,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,"Dermatology, Venereology and Leprosy",0,10,0,1,0,1,2,0,0,0,1,1,1,0,0,Not Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Tuberculosis And Respiratory Diseases,0,0,0,1,0,1,2,0,0,1,0,1,1,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,General Surgery,0,62,0,1,3,4,6,0,9,1,4,5,5,0,9,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Orthopaedics,0,60,2,1,2,2,4,0,3,1,2,3,3,0,3,Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Radio-Diagnosis,0,2,1,1,1,1,4,0,3,1,1,1,3,0,3,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Oto-Rhinolaryngology (ENT),0,20,1,1,1,1,3,0,3,1,1,1,1,0,3,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Ophthalmology,0,30,1,1,1,1,3,0,3,1,1,1,1,0,3,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Obstetrics And Gynaecology,0,60,3,1,1,4,5,0,7,1,2,3,3,0,7,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Anaesthesiology,0,12,1,1,3,3,4,0,5,1,3,5,3,0,5,Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Emergency Medicine,0,0,0,0,0,0,10,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Dentistry,0,3,1,1,0,1,2,0,0,1,1,1,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Any Other - NICU,0,40,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Any Other - PICU,0,14,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Any Other - Major OT,0,5,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Nashik,Jalgaon,GMC Jalgaon,Any Other - OT,0,5,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Anatomy,150,0,0,1,3,3,6,4,2,1,1,2,0,3,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Physiology,0,0,0,1,2,3,4,0,2,1,1,2,0,3,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Biochemistry,0,0,0,0,2,2,0,0,0,1,1,2,0,4,0,Not Complied,Not Complied,Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Pathology,0,0,0,1,6,5,4,0,5,1,3,3,0,5,5,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Microbiology,0,0,0,0,2,3,2,0,2,1,1,2,0,4,2,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Pharmacology,0,0,0,1,2,2,0,1,2,1,1,2,0,3,2,Complied,Not Complied,Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Forensic Medicine Including Toxicology,0,0,0,1,1,1,1,0,2,1,1,1,0,3,2,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Community Medicine,0,0,0,1,3,5,0,0,4,1,2,3,0,4,4,Complied,Not Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,General Medicine,0,150,5,1,3,6,10,0,7,1,4,5,5,0,7,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Paediatrics,0,90,3,0,2,3,2,0,3,1,2,3,3,0,3,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Psychiatry,0,30,1,0,1,1,0,1,0,0,1,1,1,0,0,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,"Dermatology, Venereology and Leprosy",0,20,1,1,1,2,1,0,3,0,1,1,1,0,3,Not Complied,Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Tuberculosis And Respiratory Diseases,0,30,1,1,0,2,0,0,0,1,0,1,1,0,0,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,General Surgery,0,183,3,1,3,5,6,0,9,1,4,5,5,0,9,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Orthopaedics,0,90,3,1,1,3,2,0,2,1,2,3,3,0,2,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Oto-Rhinolaryngology (ENT),0,30,1,1,0,2,2,0,3,1,1,1,1,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Ophthalmology,0,40,2,1,1,1,3,0,4,1,1,1,1,0,4,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Obstetrics And Gynaecology,0,150,3,0,3,6,3,0,6,1,2,3,3,0,6,Not Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Anaesthesiology,0,0,0,1,4,6,6,0,9,1,3,5,3,0,9,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Radiology,0,0,0,1,2,2,4,0,5,1,0,0,0,0,5,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Latur,GMC Latur,Dentistry,0,0,1,1,0,0,1,0,0,1,1,1,0,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Anatomy,150,0,0,1,2,3,6,0,2,1,1,2,0,3,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Physiology,0,0,0,1,2,4,4,0,2,1,1,2,0,3,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Biochemistry,0,0,0,1,2,2,5,0,0,1,1,2,0,4,5,Complied,Not Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Pathology,0,0,0,1,3,8,6,0,5,1,3,3,0,5,4,Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Microbiology,0,0,0,1,1,2,5,0,2,1,1,2,0,4,5,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Pharmacology,0,0,0,1,1,3,5,0,2,1,1,2,0,3,5,Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Forensic Medicine Including Toxicology,0,0,0,1,1,1,4,0,2,1,1,1,0,3,5,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Community Medicine,0,0,0,1,2,3,5,2,4,1,2,3,0,4,8,Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,General Medicine,0,150,5,1,3,5,16,0,7,1,4,5,5,0,9,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Paediatrics,0,90,3,1,2,3,4,0,3,1,2,3,3,0,3,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Psychiatry,0,30,1,1,1,1,2,0,0,0,1,1,1,0,3,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,"Dermatology, Venereology and Leprosy",0,20,1,1,1,1,2,0,3,0,1,1,1,0,5,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Tuberculosis And Respiratory Diseases,0,30,1,1,1,2,2,0,0,1,0,1,1,0,5,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,General Surgery,0,183,3,1,3,5,6,0,9,1,4,5,5,0,9,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Orthopaedics,0,90,3,1,2,3,4,0,2,1,2,3,3,0,6,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Oto-Rhinolaryngology (ENT),0,30,1,0,1,1,3,0,3,1,1,1,1,0,4,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Ophthalmology,0,40,2,1,1,2,3,0,4,1,1,1,1,0,4,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Obstetrics And Gynaecology,0,150,3,1,2,3,5,0,6,1,2,3,3,0,10,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Anaesthesiology,0,0,0,1,2,3,4,0,9,1,3,5,3,0,10,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Radiology,0,0,0,1,1,1,4,0,5,1,0,0,0,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Nanded,GMC Nanded,Dentistry,0,0,1,1,1,1,2,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Anatomy,100,0,0,1,1,0,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Physiology,0,0,0,1,1,1,0,0,0,1,1,1,0,3,,Complied,Complied,Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Biochemistry,0,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Pathology,0,0,0,0,1,2,1,0,0,1,2,3,0,4,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Microbiology,0,0,0,0,0,1,0,0,0,1,1,1,0,3,,Not Complied,Not Complied,Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Pharmacology,0,0,0,0,0,2,0,0,0,1,1,1,0,2,,Not Complied,Not Complied,Not Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Forensic Medicine Including Toxicology,0,0,0,1,1,1,1,0,0,1,0,1,0,2,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,Community Medicine,0,0,0,1,1,5,0,0,0,1,2,2,0,3,,Complied,Not Complied,Not Complied,Complied,Not Complied
+Nashik,Nandurbar,GMC Nandurbar,General Medicine,0,100,3,0,0,1,3,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Paediatrics,0,50,1,0,1,0,0,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Psychiatry,0,10,1,0,0,1,0,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,"Dermatology, Venereology and Leprosy",0,10,1,0,0,0,1,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Tuberculosis And Respiratory Diseases,0,0,1,0,0,1,0,0,0,1,0,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,General Surgery,0,100,3,1,2,0,1,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Orthopaedics,0,40,1,1,0,1,0,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Radio-Diagnosis,0,0,0,0,0,1,0,0,0,1,1,1,2,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Oto-Rhinolaryngology (ENT),0,20,1,0,0,1,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Ophthalmology,0,20,2,0,1,1,0,0,0,1,1,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Obstetrics And Gynaecology,0,50,2,0,1,1,1,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Anaesthesiology,0,0,0,1,2,3,0,0,0,1,2,4,3,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Nandurbar,GMC Nandurbar,Dentistry,0,0,0,0,0,0,1,0,0,1,1,1,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Anatomy,100,0,0,0,0,2,0,0,0,1,1,1,0,3,,Not Complied,Not Complied,Not Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Physiology,0,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Biochemistry,0,0,0,0,1,0,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Microbiology,0,0,0,0,1,0,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Pharmacology,0,0,0,0,1,0,0,0,0,1,1,1,0,2,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Forensic Medicine Including Toxicology,0,0,0,0,0,1,0,0,0,1,0,1,0,2,,Not Complied,Complied,Complied,Complied,Not Complied
+Konkan,Ratnagiri,GMC Ratnagiri,General Medicine,0,0,0,1,0,0,0,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Paediatrics,0,0,0,0,0,0,1,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Psychiatry,0,0,0,0,0,0,1,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Konkan,Ratnagiri,GMC Ratnagiri,General Surgery,0,0,0,0,0,1,0,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Ratnagiri,GMC Ratnagiri,Radio-Diagnosis,0,0,0,0,0,0,1,0,0,1,1,1,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Anatomy,100,0,0,0,1,1,0,1,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Physiology,0,0,0,0,1,2,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Biochemistry,0,0,0,1,1,2,0,1,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Pathology,0,0,0,0,0,3,2,0,0,1,2,3,0,4,,Not Complied,Not Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Microbiology,0,0,0,0,1,2,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Pharmacology,0,0,0,0,1,0,0,2,0,1,1,1,0,2,,Not Complied,Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Forensic Medicine Including Toxicology,0,0,0,1,0,0,1,0,0,1,0,1,0,2,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Community Medicine,0,0,0,0,1,3,1,0,0,1,2,2,0,3,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,General Medicine,0,110,3,0,0,4,1,0,0,1,3,4,4,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Paediatrics,0,30,0,0,0,1,0,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Psychiatry,0,10,0,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,"Dermatology, Venereology and Leprosy",0,10,0,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Tuberculosis And Respiratory Diseases,0,10,1,0,0,1,0,0,0,1,0,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,General Surgery,0,60,3,0,1,4,0,0,0,1,3,4,4,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Orthopaedics,0,30,2,0,0,1,2,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Radio-Diagnosis,0,0,0,0,0,2,0,1,0,1,1,1,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Oto-Rhinolaryngology (ENT),0,10,1,0,0,1,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Ophthalmology,0,30,1,0,0,1,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Obstetrics And Gynaecology,0,100,2,0,1,1,1,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Anaesthesiology,0,0,0,1,2,1,1,0,0,1,2,4,3,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Emergency Medicine,0,30,0,0,0,1,1,0,1,1,0,0,0,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Dharashiv,GMC Dharashiv,Dentistry,0,0,0,0,0,1,0,0,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Pune,Pune,GMC Miraj,Anatomy,200,0,0,1,2,6,6,0,3,1,2,3,0,4,3,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Physiology,0,0,0,1,3,5,5,0,2,1,2,3,0,4,2,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Biochemistry,0,0,0,1,2,3,5,0,3,1,2,3,0,4,3,Complied,Complied,Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Pathology,0,0,0,1,5,8,7,0,5,1,3,4,0,6,5,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Microbiology,0,0,0,1,3,3,5,0,5,1,2,3,0,4,5,Complied,Not Complied,Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Pharmacology,0,0,0,1,2,5,7,0,2,1,2,3,0,4,2,Complied,Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Forensic Medicine Including Toxicology,0,0,0,1,2,2,5,0,3,1,1,1,0,4,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,Community Medicine,0,0,0,1,3,5,7,0,5,1,2,4,0,5,5,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Pune,GMC Miraj,General Medicine,0,46,2,1,5,6,8,0,6,1,6,7,7,0,6,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Paediatrics,0,30,2,1,2,3,5,0,10,1,3,4,4,0,10,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Psychiatry,0,0,0,1,1,2,2,0,2,1,0,1,1,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,"Dermatology, Venereology and Leprosy",0,16,1,1,2,2,2,0,2,1,0,1,1,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Tuberculosis And Respiratory Diseases,0,16,1,1,2,2,2,0,0,1,0,1,1,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,General Surgery,0,50,2,1,4,6,8,0,12,1,6,7,7,0,12,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Orthopaedics,0,35,1,1,2,2,5,0,3,1,3,4,4,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Radio-Diagnosis,0,0,0,1,2,3,4,0,5,1,1,2,3,0,5,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Oto-Rhinolaryngology (ENT),0,22,1,1,2,2,3,0,2,1,1,1,1,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Ophthalmology,0,20,1,1,2,2,3,0,5,1,1,2,2,0,5,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Obstetrics And Gynaecology,0,35,1,1,5,5,5,0,12,1,3,4,4,0,12,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Anaesthesiology,0,0,0,1,3,4,5,0,10,1,4,5,4,0,10,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Emergency Medicine,0,0,0,1,1,1,10,0,2,1,0,0,0,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Dentistry,0,0,0,1,1,1,2,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Pune,GMC Miraj,Any Other - ICU,0,15,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC Miraj,Any Other -  Surgical ICU,0,10,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC Miraj,Any Other - PICU ,0,10,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC Miraj,Any Other - NICU,0,10,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Pune,Pune,GMC Miraj,Blood Bank,0,0,0,0,1,1,0,0,0,1,0,0,0,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Pune,Satara,GMC Satara,Anatomy,100,0,0,1,1,1,0,0,0,1,1,1,0,3,,Complied,Complied,Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Physiology,0,0,0,0,1,2,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Biochemistry,0,0,0,1,1,2,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Pathology,0,0,0,1,1,1,0,0,0,1,2,3,0,4,,Complied,Not Complied,Not Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Microbiology,0,0,0,1,1,0,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Pharmacology,0,0,0,1,1,1,0,0,0,1,1,1,0,2,,Complied,Complied,Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,Community Medicine,0,0,0,0,1,2,0,0,0,1,2,2,0,3,,Not Complied,Not Complied,Complied,Complied,Not Complied
+Pune,Satara,GMC Satara,General Medicine,0,120,2,1,0,0,0,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Paediatrics,0,60,1,0,0,0,0,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Psychiatry,0,10,1,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,"Dermatology, Venereology and Leprosy",0,10,1,0,0,1,0,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Tuberculosis And Respiratory Diseases,0,0,0,0,0,0,1,0,0,1,0,1,1,0,,Not Complied,Complied,Not Complied,Complied,Complied
+Pune,Satara,GMC Satara,General Surgery,0,120,2,0,0,2,2,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Orthopaedics,0,60,1,0,0,0,2,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Pune,Satara,GMC Satara,Radio-Diagnosis,0,0,0,0,0,0,2,0,0,1,1,1,2,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Pune,Satara,GMC Satara,Ophthalmology,0,30,1,1,0,1,1,0,0,1,1,1,1,0,,Complied,Not Complied,Complied,Complied,Complied
+Pune,Satara,GMC Satara,Obstetrics And Gynaecology,0,60,1,1,0,0,0,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Anaesthesiology,0,0,0,0,2,0,0,0,0,1,2,4,3,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Dentistry,0,0,0,0,0,0,1,0,0,1,1,1,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Satara,GMC Satara,Any Other - ,0,30,1,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Anatomy,100,0,0,1,1,3,5,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Physiology,0,0,0,1,1,3,3,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Biochemistry,0,0,0,1,1,2,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Pathology,0,0,0,1,3,3,5,0,0,1,2,3,0,4,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Microbiology,0,0,0,1,1,3,4,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Pharmacology,0,0,0,1,2,3,4,0,0,1,1,1,0,2,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Forensic Medicine Including Toxicology,0,0,0,1,1,1,3,0,0,1,0,1,0,2,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Community Medicine,0,0,0,1,2,4,4,0,0,1,2,2,0,3,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Konkan,Sindhudurg,GMC Sindhudurg,General Medicine,0,100,5,1,4,5,5,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Paediatrics,0,60,3,1,2,3,3,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Psychiatry,0,5,1,1,1,1,1,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,"Dermatology, Venereology and Leprosy",0,2,1,1,1,1,1,0,0,0,1,1,1,0,,Not Complied,Complied,Complied,Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Tuberculosis And Respiratory Diseases,0,8,1,0,1,1,1,0,0,1,0,1,1,0,,Not Complied,Not Complied,Complied,Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,General Surgery,0,85,5,1,4,5,5,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Orthopaedics,0,60,3,1,2,3,3,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Radio-Diagnosis,0,5,0,1,1,1,3,0,0,1,1,1,2,0,,Complied,Complied,Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Oto-Rhinolaryngology (ENT),0,5,2,1,1,2,2,0,0,1,1,1,1,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Ophthalmology,0,5,2,1,1,2,2,0,0,1,1,1,1,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Obstetrics And Gynaecology,0,80,4,1,3,4,4,0,0,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Anaesthesiology,0,0,0,1,3,5,3,0,0,1,2,4,3,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Emergency Medicine,0,15,1,1,1,1,9,0,0,1,0,0,0,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Konkan,Sindhudurg,GMC Sindhudurg,Dentistry,0,0,0,1,1,1,1,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Anatomy,200,0,0,0,2,3,6,3,3,1,2,3,0,4,3,Not Complied,Complied,Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Physiology,0,0,0,1,3,2,5,0,3,1,2,3,0,4,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Biochemistry,0,0,0,0,3,1,5,0,2,1,2,3,0,4,2,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Pathology,0,0,0,1,5,4,7,7,7,1,3,4,0,6,7,Complied,Not Complied,Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Microbiology,0,0,0,0,3,4,5,0,3,1,2,3,0,4,3,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Pharmacology,0,0,0,1,3,0,7,0,3,1,2,3,0,4,3,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Forensic Medicine Including Toxicology,0,0,0,1,2,2,5,0,4,1,1,1,0,4,4,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,Community Medicine,0,0,0,0,3,5,7,0,6,1,2,4,0,5,6,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Pune,Solapur,GMC Solapur,General Medicine,0,210,7,1,4,7,8,0,11,1,6,7,7,0,11,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Paediatrics,0,155,3,1,2,3,6,0,8,1,3,4,4,0,8,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Psychiatry,0,30,1,1,1,2,2,0,3,1,0,1,1,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,"Dermatology, Venereology and Leprosy",0,30,1,1,1,2,2,0,3,1,0,1,1,0,3,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Tuberculosis And Respiratory Diseases,0,35,1,1,2,2,2,0,0,1,0,1,1,0,0,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,General Surgery,0,210,6,1,4,7,8,0,8,1,6,7,7,0,8,Complied,Not Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Orthopaedics,0,120,4,1,2,3,5,0,2,1,3,4,4,0,2,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Radio-Diagnosis,0,0,0,1,1,3,4,0,4,1,1,2,3,0,4,Complied,Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Oto-Rhinolaryngology (ENT),0,30,1,0,1,2,3,0,3,1,1,1,1,0,3,Not Complied,Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Ophthalmology,0,40,1,1,1,2,3,0,3,1,1,2,2,0,3,Complied,Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Obstetrics And Gynaecology,0,120,3,1,3,4,5,0,9,1,3,4,4,0,9,Complied,Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Anaesthesiology,0,0,4,1,3,4,5,0,6,1,4,5,4,0,7,Complied,Not Complied,Not Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Emergency Medicine,0,0,0,0,0,0,10,0,0,1,0,0,0,0,0,Not Complied,Complied,Complied,Not Complied,Complied
+Pune,Solapur,GMC Solapur,Dentistry,0,0,0,0,0,0,2,0,0,1,1,1,0,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Anatomy,100,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Amaravati,Washim,GMC Washim,Physiology,0,0,0,0,1,0,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Amaravati,Washim,GMC Washim,Biochemistry,0,0,0,0,0,1,1,0,0,1,1,1,0,3,,Not Complied,Not Complied,Complied,Not Complied,Not Complied
+Amaravati,Washim,GMC Washim,Pathology,0,0,0,0,0,1,1,0,0,1,2,3,0,4,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Washim,GMC Washim,Microbiology,0,0,0,0,0,0,1,0,0,1,1,1,0,3,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Amaravati,Washim,GMC Washim,Community Medicine,0,0,0,0,0,1,0,0,0,1,2,2,0,3,,Not Complied,Not Complied,Not Complied,Complied,Not Complied
+Amaravati,Washim,GMC Washim,General Medicine,0,60,1,0,0,3,2,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Paediatrics,0,50,1,0,0,0,1,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Psychiatry,0,10,1,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,"Dermatology, Venereology and Leprosy",0,10,1,0,0,0,1,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Amaravati,Washim,GMC Washim,General Surgery,0,100,1,0,1,3,1,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Orthopaedics,0,20,1,0,0,0,1,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Oto-Rhinolaryngology (ENT),0,20,1,0,0,1,0,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Ophthalmology,0,20,1,0,0,1,0,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Obstetrics And Gynaecology,0,100,1,0,0,1,0,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Anaesthesiology,0,0,0,0,2,1,1,0,0,1,2,4,3,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Amaravati,Washim,GMC Washim,Any Other - Casualty,0,6,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Washim,GMC Washim,Any Other - ICU/SNCU,0,6,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Amaravati,Washim,GMC Washim,Any Other - PICU,0,28,0,0,0,0,0,0,0,1,0,0,0,0,,Not Complied,Complied,Complied,Complied,Complied
+Nashik,Dhule,GMC Dhule,Anatomy,150,0,0,1,2,6,5,0,0,1,1,2,0,3,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Physiology,0,0,0,1,3,6,3,0,0,1,1,2,0,3,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Biochemistry,0,0,0,1,3,3,4,0,7,1,1,2,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Pathology,0,0,0,1,3,5,5,0,2,1,3,3,0,5,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Microbiology,0,0,0,1,2,3,4,0,3,1,1,2,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Pharmacology,0,0,0,1,2,3,4,0,0,1,1,2,0,3,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Forensic Medicine Including Toxicology,0,0,0,1,2,3,3,0,5,1,1,1,0,3,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,Community Medicine,0,0,0,1,2,4,4,0,0,1,2,3,0,4,,Complied,Complied,Not Complied,Not Complied,Not Complied
+Nashik,Dhule,GMC Dhule,General Medicine,0,150,5,1,3,5,8,0,4,1,4,5,5,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Paediatrics,0,90,2,1,2,3,5,0,3,1,2,3,3,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Psychiatry,0,10,1,1,1,1,2,0,2,0,1,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,"Dermatology, Venereology and Leprosy",0,10,1,1,1,1,2,0,3,0,1,1,1,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Tuberculosis And Respiratory Diseases,0,10,1,1,1,1,2,0,0,1,0,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,General Surgery,0,130,4,1,3,5,8,0,6,1,4,5,5,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Orthopaedics,0,90,3,1,2,3,5,0,3,1,2,3,3,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Radio-Diagnosis,0,0,0,1,2,3,4,0,0,1,1,1,3,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Radiotherapy,0,0,0,0,0,0,0,0,0,1,0,1,3,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Oto-Rhinolaryngology (ENT),0,30,1,1,1,1,3,0,3,1,1,1,1,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Ophthalmology,0,30,2,1,1,1,3,0,2,1,1,1,1,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Obstetrics And Gynaecology,0,110,4,1,2,5,7,0,6,1,2,3,3,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Anaesthesiology,0,0,0,1,2,3,6,0,7,1,3,5,3,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Physical Medicine And Rehabilitation,0,0,0,0,0,,0,0,0,1,0,1,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Emergency Medicine,0,20,1,0,0,0,9,0,0,0,0,0,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Nashik,Dhule,GMC Dhule,Radiation Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Complied,Complied,Complied,Complied,Complied
+Nashik,Dhule,GMC Dhule,Dentistry,0,0,1,1,0,1,1,0,0,1,1,1,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,DM – Neonatology,0,0,0,0,1,0,0,0,4,0,0,0,0,0,,Complied,Not Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Anatomy,200,0,0,1,4,6,6,0,3,1,2,3,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Physiology,0,0,0,1,7,8,5,0,0,1,2,3,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Biochemistry,0,0,0,1,7,7,5,0,0,1,2,3,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Pathology,0,0,0,1,6,12,7,0,14,1,3,4,0,6,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Microbiology,0,0,0,1,4,3,5,0,13,1,2,3,0,4,,Complied,Not Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Pharmacology,0,0,0,1,4,5,8,0,3,1,2,3,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Forensic Medicine Including Toxicology,0,0,0,1,4,3,5,0,3,1,1,1,0,4,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Community Medicine,0,0,0,1,5,7,7,0,12,1,2,4,0,5,,Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,General Medicine,0,262,7,1,8,11,7,0,20,1,6,7,7,0,,Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Paediatrics,0,120,4,1,3,7,5,0,9,1,3,4,4,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Psychiatry,0,20,1,1,1,1,2,0,3,1,0,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,"Dermatology, Venereology and Leprosy",0,0,0,1,1,1,2,0,0,1,0,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Tuberculosis And Respiratory Diseases,0,45,1,1,1,1,2,0,5,1,0,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,General Surgery,0,245,5,1,9,8,8,0,20,1,6,7,7,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Orthopaedics,0,90,4,1,3,5,5,0,9,1,3,4,4,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Radio-Diagnosis,0,0,3,1,5,3,4,0,13,1,1,2,3,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Oto-Rhinolaryngology (ENT),0,30,2,1,2,1,3,0,4,1,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Ophthalmology,0,0,2,1,3,4,3,0,8,1,1,2,2,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Obstetrics And Gynaecology,0,200,5,1,5,9,5,0,21,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Anaesthesiology,0,0,0,1,4,5,5,0,0,1,4,5,4,0,,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Physical Medicine And Rehabilitation,0,0,0,0,0,0,0,0,0,1,0,1,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Emergency Medicine,0,0,0,0,0,0,10,0,0,0,0,0,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Radiation Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Complied,Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Dentistry,0,0,0,1,1,1,2,0,0,1,1,1,0,0,,Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Transfusion Medicine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Complied,Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,GMC Chh. Sambhajinagar,Geriatric Medicine,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Complied,Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Anatomy,100,0,0,1,1,0,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Physiology,0,0,0,1,1,0,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Biochemistry,0,0,0,1,1,0,0,0,0,1,1,1,0,3,,Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Pathology,0,0,0,0,1,0,1,0,0,1,2,3,0,4,,Not Complied,Not Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Microbiology,0,0,0,0,1,0,1,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Pharmacology,0,0,0,0,1,0,0,0,0,1,1,1,0,2,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Forensic Medicine Including Toxicology,0,0,0,1,0,0,0,0,0,1,0,1,0,2,,Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Community Medicine,0,0,0,0,0,0,0,0,0,1,2,2,0,3,,Not Complied,Not Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,General Medicine,0,100,3,1,2,0,2,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Paediatrics,0,50,2,0,1,0,1,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Psychiatry,0,10,1,0,1,0,0,0,0,0,1,1,1,0,,Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,"Dermatology, Venereology and Leprosy",0,10,1,0,0,0,0,0,0,0,1,1,1,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Tuberculosis And Respiratory Diseases,0,0,0,0,0,0,0,0,0,1,0,1,1,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,General Surgery,0,100,3,1,2,0,1,0,0,1,3,4,4,0,,Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Orthopaedics,0,40,0,0,1,0,1,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Oto-Rhinolaryngology (ENT),0,0,1,0,0,0,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Ophthalmology,0,20,1,0,0,0,1,0,0,1,1,1,1,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Obstetrics And Gynaecology,0,50,2,0,1,6,3,0,0,1,1,2,2,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Anaesthesiology,0,0,0,0,2,1,1,0,0,1,2,4,3,0,,Not Complied,Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Radiology,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Hingoli,GMC Hingoli,Dentistry,0,0,1,0,0,0,0,0,0,1,1,1,0,0,,Not Complied,Not Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Anatomy,100,0,0,1,1,1,0,0,0,1,1,1,0,3,,Complied,Complied,Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Physiology,0,0,0,0,1,1,0,0,0,1,1,1,0,3,,Not Complied,Complied,Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Biochemistry,0,0,0,0,1,2,3,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Pathology,0,0,0,0,2,2,1,0,0,1,2,3,0,4,,Not Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Microbiology,0,0,0,0,1,2,0,0,0,1,1,1,0,3,,Not Complied,Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Pharmacology,0,0,0,0,1,1,1,0,0,1,1,1,0,2,,Not Complied,Complied,Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Paediatrics,0,0,0,0,1,2,1,0,0,1,1,2,2,0,,Not Complied,Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Psychiatry,0,0,0,0,0,1,0,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,General Surgery,0,0,0,0,1,3,3,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Orthopaedics,0,0,0,0,0,1,0,0,0,1,1,2,2,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Forensic Medicine Including Toxicology,0,0,0,1,1,0,0,0,0,1,0,1,0,2,,Complied,Not Complied,Not Complied,Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Community Medicine,0,0,0,0,2,3,1,0,0,1,2,2,0,3,,Not Complied,Complied,Not Complied,Not Complied,Not Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,General Medicine,0,0,0,0,1,3,1,0,0,1,3,4,4,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Ophthalmology,0,0,0,0,0,1,0,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Obstetrics And Gynaecology,0,0,0,0,0,2,1,0,0,1,1,2,2,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Anaesthesiology,0,0,0,0,1,2,0,0,0,1,2,4,3,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Emergency Medicine,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Complied,Complied,Not Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,"Dermatology, Venereology and Leprosy",0,0,0,0,0,1,0,0,0,0,1,1,1,0,,Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Dentistry,0,0,0,0,0,1,1,0,0,1,1,1,0,0,,Not Complied,Not Complied,Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Radiotherapy,0,0,0,0,0,0,1,0,0,1,1,2,3,0,,Not Complied,Not Complied,Not Complied,Not Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Pulmonary Medicine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Complied,Complied,Complied,Complied,Complied
+Chhatrapati Sambhajinagar,Parbhani,GMC Parbhani,Oto-Rhinolaryngology (ENT),0,0,0,0,0,1,0,0,0,1,1,1,1,0,,Not Complied,Not Complied,Complied,Not Complied,Complied

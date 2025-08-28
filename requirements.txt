@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+fpdf
+deep-translator
+matplotlib
+seaborn
+plotly
